@@ -24,13 +24,13 @@ function johnLennonFacts(facts) {
 }
 
 function iLoveTheBeatles(number) {
-  let arra=[];
+  let statement=[];
   do {
-    arra.push("I love the Beatles!");
+    statement.push("I love the Beatles!");
     number++
 }
 while (number<15);
-return arra;
+return statement;
 }
 
 
