@@ -20,7 +20,7 @@ function johnLennonFacts(facts) {
     const str = facts[i] + "!!!";
     i++;
   }
-  return arr;
+  return facts;
 }
 
 
