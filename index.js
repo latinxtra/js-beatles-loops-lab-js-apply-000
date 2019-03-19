@@ -24,10 +24,10 @@ function johnLennonFacts(facts) {
 }
 
 function iLoveTheBeatles(number) {
-  let y=[];
+  let arra=[];
   do {
-  y.push("I love the Beatles!");
-  number > 15
+  arra.push("I love the Beatles!");
+  number++
 }
 while (number < 15);
 return number;
